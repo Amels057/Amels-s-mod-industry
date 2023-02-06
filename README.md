@@ -8,10 +8,34 @@ Some models may have been removed. Sorry.
 "Boots" can not be find.
 "M1 helmet" can not be find.
 
-If you use this mod for your video or server, please write credit.
+The Terms. 
+----------------------------------------
+
+If you use this mod for your video or server, please write the following text.
+
+credit:Phenom Production mod by Amels(https://twitter.com/AmelsC43)
+Public Discord server:https://discord.gg/7G2gkMEVyC
+
+
 Never share the github link.
 Modification or redistribution is prohibited.
 
-もしあなたがこのモッドを動画やサーバーに使用する場合、クレジットを書いてください。
+----------------------------------------
+
+If I see any against the terms, I'll remove the mod.
+
+
+規約
+--------------------------------------
+
+もしあなたがこのモッドを動画やサーバーに使用する場合、下記のクレジットを書いてください。
+
+credit:Phenom Production mod by Amels(https://twitter.com/AmelsC43)
+Public Discord server:https://discord.gg/7G2gkMEVyC
+
 githubのリンクは絶対に共有しないでください。
 改造、再配布は禁止です。
+
+--------------------------------------
+
+規約に反するものがあれば、MODを削除します。
