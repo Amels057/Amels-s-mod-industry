@@ -1,5 +1,3 @@
-# Amels-s-mod-industry
-
 First of all, I haven't made the 3D models.
 I know I have to write the credits, but I can't find all of them again.
 Some models may have been removed. Sorry.
@@ -18,7 +16,7 @@ Public Discord server:https://discord.gg/7G2gkMEVyC
 
 
 Never share the github link.
-Modification or redistribution is prohibited.
+Modification, distribution of modified versions or redistribution is prohibited.
 
 ----------------------------------------
 
@@ -34,7 +32,7 @@ credit:Phenom Production mod by Amels(https://twitter.com/AmelsC43)
 Public Discord server:https://discord.gg/7G2gkMEVyC
 
 githubのリンクは絶対に共有しないでください。
-改造、再配布は禁止です。
+改造、再配布、改造したものを配布する行為は禁止です。
 
 --------------------------------------
 
